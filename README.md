@@ -9,3 +9,4 @@
 7. [Pangrams](https://www.hackerrank.com/challenges/pangrams): [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/Pangrams.playground)
 8. [PlusMinus](https://www.hackerrank.com/challenges/plus-minus/problem): [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/PlusMinus.playground)
 9. [Sherlock and valid string](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem): [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/sherlock-and-valid-string.playground)
+10. [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange): [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/Apple%20and%20Orange.playground)
