@@ -10,5 +10,6 @@
 8. [PlusMinus](https://www.hackerrank.com/challenges/plus-minus/problem) easy: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/PlusMinus.playground)
 9. [Sherlock and valid string](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem) medium: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/sherlock-and-valid-string.playground)
 10. [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) easy: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/Apple%20and%20Orange.playground)
-11. [Kangaroo](https://www.hackerrank.com/challenges/kangaroo): [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/Kangaroo.playground)
+11. [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) easy: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/Kangaroo.playground)
 12. [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) medium: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/AlmostSorted.playground)
+13. [Common Child](https://www.hackerrank.com/challenges/common-child) medium: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/Common%20Child.playground)
