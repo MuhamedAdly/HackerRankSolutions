@@ -13,3 +13,4 @@
 11. [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) easy: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/Kangaroo.playground)
 12. [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) medium: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/AlmostSorted.playground)
 13. [Common Child](https://www.hackerrank.com/challenges/common-child) medium: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/Common%20Child.playground)
+14. [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem) easy: [Solution](https://github.com/MuhamedAdly/HackerRankSolutions/tree/master/Drawing%20Book.playground)
